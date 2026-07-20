@@ -1,0 +1,14 @@
+.container > h2
+{
+    background-color: blue;
+}
+
+.container p
+{
+    color: red;
+}
+
+h2 + p
+{
+    border: 2px solid green;
+}
